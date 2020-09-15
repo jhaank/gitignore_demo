@@ -1,2 +1,8 @@
+#Comment to ignore single file
 new_file.txt
+
+#Comment to ignore files ina folder
 bin/
+
+#Ignore temp files
+*.tmp
