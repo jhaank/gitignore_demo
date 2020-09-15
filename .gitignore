@@ -1,5 +1,5 @@
 #Comment to ignore single file
-new_file.txt
+another_file.txt
 
 #Comment to ignore files ina folder
 bin/
